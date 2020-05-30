@@ -1,6 +1,6 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: HRMeal
+description: Everyday Food for Thoughts on Human Resources
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -47,13 +47,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: hrmeal #github username
+repo: hrmeal.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ./hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+production_url:  hrmeal.com
+source_url:  https://github.com/hrmeal/hrmeal.github.io #source repository url
 
 exclude:
   - README.md
