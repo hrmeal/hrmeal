@@ -4,8 +4,8 @@ description: Everyday Food for Thoughts on Human Resources
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+url: "" # the base hostname & protocol for your site
 
 pagination:
 
