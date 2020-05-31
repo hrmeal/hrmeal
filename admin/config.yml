@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo: hrmeal/hrmeal
+  name: git-gateway
   branch: master
-  site_domain: www.hrmeal.com
 publish_mode: editorial_workflow
 media_folder: "assets/images"
 collections:
