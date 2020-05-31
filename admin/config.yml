@@ -3,7 +3,7 @@ backend:
   repo: hrmeal/hrmeal
   branch: master
   site_domain: www.hrmeal.com
-media_folder: "images/uploads"
+media_folder: "assets/images"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
     label: "Post" # Used in the UI
