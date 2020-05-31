@@ -16,5 +16,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date", default: ""}
       - {label: "Tags", name: "tags", widget: "string", default: ""}
-      - {label: "Tags", name: "tags", widget: "string", default: "Tanya Vo"}
+      - {label: "Author", name: "author", widget: "string", default: "Tanya Vo"}
       - {label: "Body", name: "body", widget: "markdown"}
